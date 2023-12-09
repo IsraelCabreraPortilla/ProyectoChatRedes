@@ -1,4 +1,4 @@
-#INTEGRANTES DEL EQUIPO:
+# INTEGRANTES DEL EQUIPO:
 
 Sara Visoso
 Dario Sotelo 
