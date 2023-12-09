@@ -1,4 +1,4 @@
-INTEGRANTES DEL EQUIPO:
+#INTEGRANTES DEL EQUIPO:
 
 Sara Visoso
 Dario Sotelo 
@@ -10,12 +10,12 @@ Este proyecto se realizó apoyandose de nodejs como el motor de backend y expres
 
 Es necesario que al descargar el proyecto instalemos express para que el mismo funcione, esto se hace mediante el sig. comando:
 
-npm install express
+`npm install express`
 
 
 Una vez instalado, para iniciar el proyecto ejecutar:
 
-npm run start 
+`npm run start`
 
 Y esto nos permitirá ejecutar nuestro proyecto en localhost:
 
