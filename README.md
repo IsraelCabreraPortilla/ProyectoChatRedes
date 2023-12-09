@@ -1,8 +1,8 @@
 # INTEGRANTES DEL EQUIPO:
 
-Sara Visoso \n
-Dario Sotelo \n
-Israel Cabrera \n
+1. Sara Visoso 
+2. Dario Sotelo 
+2. Israel Cabrera 
 
 ¿Cómo ejecutar el proyecto?
 
