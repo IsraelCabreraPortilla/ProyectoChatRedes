@@ -1,3 +1,9 @@
+INTEGRANTES DEL EQUIPO:
+
+Sara Visoso
+Dario Sotelo 
+Israel Cabrera
+
 ¿Cómo ejecutar el proyecto?
 
 Este proyecto se realizó apoyandose de nodejs como el motor de backend y express junto con HTML para la parte de frontend
